@@ -1,0 +1,171 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "productsLink": "Produk",
+    "missionLink": "Misi Kami",
+    "aboutUsLink": "Tentang Kami",
+    "qualityLink": "Kualitas",
+    "uspLink": "Mengapa Kami",
+    "exportDestinationLink": "Destinasi Ekspor",
+    "newsLink": "Berita",
+    "locationLink": "Lokasi",
+    "articles": "Artikel",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Jahe Indonesia Premium\nuntuk Pasar Global",
+    "subtitle": "PT. Princess Jaya Abadi: Mitra tepercaya untuk ekspor jahe segar dan olahan—aromatik, higienis, dan konsisten.",
+    "cta": "Jelajahi Produk Jahe Kami"
+  },
+  "mission": {
+    "label": "Tujuan Kami",
+    "heading": "Membawa Jahe Nusantara ke Dunia",
+    "quote": "Menjadi eksportir jahe dan turunannya yang terkemuka, berlandaskan mutu, keberlanjutan, serta kemitraan adil dengan petani.",
+    "points": [
+      "Menyuplai jahe premium dengan standar mutu ekspor.",
+      "Mengutamakan proses pascapanen higienis dan berkelanjutan.",
+      "Menjamin kontinuitas pasokan dan pengiriman tepat waktu.",
+      "Memberdayakan petani melalui harga yang adil dan pendampingan."
+    ]
+  },
+  "about": {
+    "label": "Mengapa Memilih Kami?",
+    "heading": "Keunggulan Princess Jaya Abadi",
+    "description": "Kami mengelola rantai pasok jahe dari kebun hingga pelabuhan. Seleksi bahan baku ketat, sortasi ukuran, sanitasi pascapanen, dan pengemasan siap ekspor memastikan kualitas konsisten untuk pelanggan internasional.",
+    "features": [
+      {
+        "title": "Sumber Terpercaya",
+        "description": "Jahe berasal dari sentra pertanian Indonesia (gajah, emprit, merah) dengan keterlacakan asal (traceability) hingga kelompok tani."
+      },
+      {
+        "title": "Kualitas Konsisten",
+        "description": "Grading ketat: kadar air terkontrol, kebersihan kulit, minim kotoran, dan ukuran seragam sesuai permintaan pembeli."
+      },
+      {
+        "title": "Proses Higienis",
+        "description": "Pencucian, pengeringan, dan pemotongan menggunakan peralatan food grade serta SOP keamanan pangan."
+      },
+      {
+        "title": "Dokumen Ekspor Lengkap",
+        "description": "COO, phytosanitary, dan spesifikasi produk disiapkan untuk mempercepat proses bea cukai."
+      },
+      {
+        "title": "Transparansi & Keandalan",
+        "description": "Komunikasi terbuka, inspeksi pra-pengapalan, dan dukungan purnajual untuk kemitraan jangka panjang."
+      }
+    ]
+  },
+  "product": {
+    "label": "Produk Jahe Kami",
+    "heading": "Jahe Segar & Olahan untuk Berbagai Kebutuhan",
+    "description": "Tersedia jahe segar, irisan/potongan kering, bubuk jahe, hingga jahe beku—cocok untuk ritel, HORECA, dan industri pangan/minuman serta farmasi tradisional. Opsi private label dan spesifikasi kustom tersedia.",
+    "cta": "Pesan Sekarang",
+    "items": [
+      {
+        "title": "Jahe Segar (Fresh Ginger)",
+        "description": "Aromatik dengan kadar air terjaga, dibersihkan dan disortir—siap untuk pasar ritel maupun industri."
+      },
+      {
+        "title": "Jahe Kering/IRIS (Dried Sliced Ginger)",
+        "description": "Irisan seragam dengan kadar air rendah, ideal untuk ekstraksi, teh, dan formulasi bumbu."
+      },
+      {
+        "title": "Bubuk Jahe (Ginger Powder)",
+        "description": "Penggilingan higienis bermesh seragam untuk minuman instan, bakery, dan bumbu kemasan."
+      }
+    ]
+  },
+  "quality": {
+    "label": "Komitmen Kami terhadap Kualitas",
+    "heading": "Keamanan Pangan & Mutu Terjaga",
+    "intro": "Setiap tahap—mulai panen, sortasi, sanitasi, hingga pengemasan—mengikuti SOP ketat untuk menjaga potensi rasa, aroma, dan umur simpan.",
+    "points": [
+      "Seleksi varietas sesuai kebutuhan pasar (gajah/emprit/merah).",
+      "Pengendalian kadar air dan kebersihan untuk mencegah kontaminasi.",
+      "Grading ukuran dan visual untuk konsistensi batch.",
+      "Dokumentasi mutu dan keterlacakan hingga sumber."
+    ],
+    "conclusion": "Kami memastikan produk jahe stabil, aman, dan memenuhi spesifikasi pembeli internasional."
+  },
+  "usp": {
+    "heading": "Mengapa Bermitra dengan PT. Princess Jaya Abadi?",
+    "items": [
+      {
+        "title": "Kemasan Siap Ekspor",
+        "description": "Karung bersih berlapis/inner liner, karton, atau vacuum pack—menjaga kesegaran dan meminimalkan susut.",
+        "image": "/ginger-pack-1.png"
+      },
+      {
+        "title": "Sortasi Ketat",
+        "description": "Pencucian, pengeringan terukur, dan grading visual untuk hasil seragam dan higienis.",
+        "image": "/ginger-sorting-2.png"
+      },
+      {
+        "title": "Logistik Andal",
+        "description": "Rantai pasok efisien dan jadwal pengapalan yang bisa diprediksi ke berbagai negara.",
+        "image": "/ginger-logistics-3.png"
+      },
+      {
+        "title": "Pemberdayaan Petani",
+        "description": "Kemitraan berkelanjutan dengan harga adil dan peningkatan kapasitas di tingkat kebun.",
+        "image": "/ginger-farmers-4.png"
+      }
+    ]
+  },
+  "exportDestination": {
+    "title": "Jangkauan Global Jahe Kami",
+    "regions": "Asia, Eropa, Amerika, Timur Tengah, Australia",
+    "paragraph1": "Dengan reputasi jahe Indonesia yang kuat, kami melayani pembeli lintas benua dengan volume stabil dan spesifikasi kustom.",
+    "paragraph2": "Jaringan logistik tepercaya memastikan pengiriman efisien dan tepat waktu ke Asia, Eropa, Amerika, Timur Tengah, dan Australia."
+  },
+  "teamNews": {
+    "news": {
+      "label": "Pembaruan Terbaru",
+      "heading": "Berita & Wawasan Industri Jahe",
+      "description": "Ikuti tren harga, regulasi ekspor, dan inovasi olahan jahe serta capaian pengapalan PT. Princess Jaya Abadi."
+    },
+    "team": {
+      "label": "Tim Kami",
+      "heading": "Profesional di Balik Mutu",
+      "description": "Tim QA, produksi, dan ekspor kami memastikan spesifikasi terpenuhi dan dokumen siap sebelum keberangkatan."
+    }
+  },
+  "location": {
+    "label": "Temukan Kami di Sini",
+    "heading": "Kantor Pusat & Pusat Produksi",
+    "description": "Berlokasi di Lampung, Indonesia—dekat sentra jahe dan akses pelabuhan. Kunjungan buyer dan inspeksi pra-pengapalan dipersilakan.",
+    "ctaLabel": "Hubungi Kami",
+    "ctaHref": "/id/#contact"
+  },
+  "cta": {
+    "heading": "Siap Mengimpor Jahe Indonesia Berkualitas?",
+    "description": "Hubungi PT. Princess Jaya Abadi untuk penawaran jahe segar, jahe kering/iris, dan bubuk jahe—dengan suplai konsisten dan dokumentasi lengkap.",
+    "button": "Hubungi Kami via WhatsApp"
+  },
+  "footer": {
+    "shipping": "Pengiriman",
+    "shippingDesc": "Kemasan ekspor sesuai spesifikasi pembeli (karung berlapis/karton/vacuum). Estimasi 2–3 minggu setelah konfirmasi.",
+    "delivery": "Pengantaran",
+    "deliveryDesc": "Pengiriman global via laut atau udara dengan forwarder tepercaya. Koordinasi rute dan jadwal transparan.",
+    "returns": "Pengembalian",
+    "returnsDesc": "Pastikan spesifikasi produk sesuai PO. Pengembalian terbatas dan berdasarkan kesepakatan awal.",
+    "social": "Media Sosial",
+    "support": "Dukungan Pelanggan",
+    "subscribe": "Berlangganan",
+    "subscribeDesc": "Dapatkan pembaruan ketersediaan, harga, dan wawasan pasar jahe langsung ke email Anda.",
+    "emailPlaceholder": "Alamat Email Anda",
+    "navigation": "Navigasi",
+    "navLinks": {
+      "home": "Beranda",
+      "products": "Produk",
+      "articles": "Artikel",
+      "contact": "Kontak"
+    },
+    "copyright": "Semua hak dilindungi undang-undang.",
+    "headline": "Mari Bicara — Chat WhatsApp Sekarang",
+    "company": "PT. Princess Jaya Abadi",
+    "email": "rangga@princessjayaabadi.com",
+    "phone": "+62 817-801-588",
+    "note": "Jam operasional: Senin–Jumat 09.00–17.00 WIB"
+  }
+}

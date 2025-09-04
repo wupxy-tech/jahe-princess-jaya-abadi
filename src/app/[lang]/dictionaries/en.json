@@ -1,0 +1,171 @@
+{
+  "navbar": {
+    "home": "Home",
+    "productsLink": "Products",
+    "missionLink": "Our Mission",
+    "aboutUsLink": "About Us",
+    "qualityLink": "Quality",
+    "uspLink": "Why Us",
+    "exportDestinationLink": "Export Destinations",
+    "newsLink": "News",
+    "locationLink": "Location",
+    "articles": "Articles",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Indonesian Ginger\nfor Global Markets",
+    "subtitle": "PT. Princess Jaya Abadi: Trusted partner for fresh and processed ginger exports—aromatic, hygienic, and consistent quality from Indonesia.",
+    "cta": "Explore Our Ginger Products"
+  },
+  "mission": {
+    "label": "Our Purpose",
+    "heading": "Bringing Indonesian Ginger to the World",
+    "quote": "To be the world’s leading exporter of ginger and its derivatives—committed to quality, sustainability, and empowering local farmers.",
+    "points": [
+      "Supply premium ginger with international quality standards.",
+      "Ensure hygienic and sustainable post-harvest processing.",
+      "Deliver consistent quality with export-ready packaging.",
+      "Empower Indonesian ginger farmers through fair trade partnerships."
+    ]
+  },
+  "about": {
+    "label": "Why Choose Us?",
+    "heading": "The Princess Jaya Abadi Advantage",
+    "description": "We specialize in sourcing, processing, and exporting Indonesian ginger. With a focus on quality, food safety, and customer trust, we are a reliable partner for global buyers. Every batch is carefully cleaned, graded, tested, and packed to ensure freshness, consistency, and export compliance.",
+    "features": [
+      {
+        "title": "Trusted Sourcing",
+        "description": "Ginger is sourced directly from Indonesia’s major farming regions, with full traceability back to the growers."
+      },
+      {
+        "title": "Consistent Quality",
+        "description": "Graded for size, moisture, cleanliness, and uniform appearance according to buyer specifications."
+      },
+      {
+        "title": "Hygienic Processing",
+        "description": "Post-harvest washing, slicing, and drying are done with food-grade equipment under strict SOPs."
+      },
+      {
+        "title": "Export Documentation",
+        "description": "Phytosanitary certificates, COO, and detailed product specifications prepared for smooth customs clearance."
+      },
+      {
+        "title": "Reliable Partnerships",
+        "description": "We maintain transparency, pre-shipment inspection, and after-sales support for long-term trust."
+      }
+    ]
+  },
+  "product": {
+    "label": "Our Ginger Products",
+    "heading": "Fresh & Processed Ginger for Various Applications",
+    "description": "We offer fresh ginger, dried slices, and ginger powder, suitable for retail, HORECA, food and beverage industries, and traditional medicine. Private labeling and custom specifications are available upon request.",
+    "cta": "Order Now",
+    "items": [
+      {
+        "title": "Fresh Ginger",
+        "description": "Aromatic and carefully cleaned with controlled moisture—ready for retail and industrial use."
+      },
+      {
+        "title": "Dried Sliced Ginger",
+        "description": "Low-moisture uniform slices, perfect for tea, extraction, and spice blends."
+      },
+      {
+        "title": "Ginger Powder",
+        "description": "Finely milled under hygienic conditions, ideal for beverages, bakery, and packaged foods."
+      }
+    ]
+  },
+  "quality": {
+    "label": "Our Commitment to Quality",
+    "heading": "Food Safety and Export Standards Guaranteed",
+    "intro": "At PT. Princess Jaya Abadi, quality is at the heart of our operations. From farm to packaging, every step follows strict SOPs to preserve aroma, flavor, and shelf life.",
+    "points": [
+      "Fresh ginger sourced directly from trusted farmers.",
+      "Post-harvest processing with strict hygiene control.",
+      "Grading and sizing for consistency in every shipment.",
+      "Certified food safety standards and export documentation."
+    ],
+    "conclusion": "We ensure every shipment of ginger meets international requirements with reliable quality and authentic Indonesian aroma."
+  },
+  "usp": {
+    "heading": "Why Partner with PT. Princess Jaya Abadi?",
+    "items": [
+      {
+        "title": "Export-Ready Packaging",
+        "description": "Clean sacks with inner liners, cartons, or vacuum packs to preserve freshness and reduce shrinkage.",
+        "image": "/ginger-pack-1.png"
+      },
+      {
+        "title": "Strict Sorting",
+        "description": "Careful washing, drying, and grading to meet global quality standards.",
+        "image": "/ginger-sorting-2.png"
+      },
+      {
+        "title": "Reliable Logistics",
+        "description": "Efficient supply chain and predictable shipping schedules to global destinations.",
+        "image": "/ginger-logistics-3.png"
+      },
+      {
+        "title": "Community Empowerment",
+        "description": "Supporting local ginger farmers with fair pricing and sustainable practices.",
+        "image": "/ginger-farmers-4.png"
+      }
+    ]
+  },
+  "exportDestination": {
+    "title": "Global Reach of Our Ginger",
+    "regions": "Asia, Europe, America, Middle East, Australia",
+    "paragraph1": "Indonesian ginger is highly valued worldwide for its aroma and potency. PT. Princess Jaya Abadi exports to multiple continents with stable supply and export-ready quality.",
+    "paragraph2": "Our strong logistics network ensures timely and efficient deliveries across Asia, Europe, America, the Middle East, and Australia."
+  },
+  "teamNews": {
+    "news": {
+      "label": "Latest Updates",
+      "heading": "News & Insights on the Ginger Industry",
+      "description": "Stay updated with global ginger trends, product innovation, and PT. Princess Jaya Abadi’s export achievements."
+    },
+    "team": {
+      "label": "Our Dedicated Team",
+      "heading": "Experts Behind the Quality",
+      "description": "Meet the professionals ensuring every shipment of ginger meets international standards and customer satisfaction."
+    }
+  },
+  "location": {
+    "label": "Find Us Here",
+    "heading": "Head Office & Production Hub",
+    "description": "Our office and production hub is located in Lampung, Indonesia, close to major ginger farming areas—ensuring fresh supply and efficient export preparation.",
+    "ctaLabel": "Contact Us",
+    "ctaHref": "/en/#contact"
+  },
+  "cta": {
+    "heading": "Ready to Import Premium Indonesian Ginger?",
+    "description": "Connect with PT. Princess Jaya Abadi today. Whether you need fresh ginger, dried slices, or powder—we are ready to support your business with consistent supply and full export service.",
+    "button": "Contact Us via WhatsApp"
+  },
+  "footer": {
+    "shipping": "Shipping",
+    "shippingDesc": "Orders are packed in export-ready sacks, cartons, or vacuum-sealed packaging. Standard dispatch within 2–3 weeks after confirmation.",
+    "delivery": "Delivery",
+    "deliveryDesc": "Worldwide delivery through trusted freight forwarders with sea and air shipping options.",
+    "returns": "Returns",
+    "returnsDesc": "Please confirm product specifications before purchase. Due to the food nature of the product, returns are limited and subject to prior agreement.",
+    "social": "Social Media",
+    "support": "Customer Support",
+    "subscribe": "Stay Connected",
+    "subscribeDesc": "Subscribe for updates on ginger availability, pricing, and market insights.",
+    "emailPlaceholder": "Your Email Address",
+    "navigation": "Navigation",
+    "navLinks": {
+      "home": "Home",
+      "products": "Products",
+      "articles": "Articles",
+      "contact": "Contact"
+    },
+    "copyright": "All rights reserved.",
+    "headline": "Let’s Talk — Chat on WhatsApp",
+    "company": "PT. Princess Jaya Abadi",
+    "email": "rangga@princessjayaabadi.com",
+    "phone": "+62 817-801-588",
+    "note": "Business hours: Mon–Fri 09:00–17:00 (WIB)"
+  }
+}
